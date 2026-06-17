@@ -1,0 +1,21 @@
+{
+    "HEMOGLOBIN": {"min": 5, "max": 25},
+    "WHITE BLOOD CELL COUNT": {"min": 1000, "max": 50000},
+    "PLATELET COUNT": {"min": 10000, "max": 1000000},
+    "RED BLOOD CELL COUNT": {"min": 1, "max": 10},
+    "HEMATOCRIT": {"min": 10, "max": 70},
+    "SODIUM": {"min": 100, "max": 180},
+    "POTASSIUM": {"min": 1, "max": 10},
+    "SERUM CREATININE": {"min": 0.1, "max": 20},
+    "UREA NITROGEN (BUN)": {"min": 1, "max": 200},
+    "ALBUMIN": {"min": 1, "max": 10},
+    "C-REACTIVE PROTEIN": {"min": 0, "max": 500},
+    "URIC ACID": {"min": 1, "max": 20},
+    "CALCIUM": {"min": 4, "max": 20},
+    "NEUTROPHILS": {"min": 0, "max": 100},
+    "LYMPHOCYTES": {"min": 0, "max": 100},
+    "EOSINOPHILS": {"min": 0, "max": 100},
+    "MONOCYTES": {"min": 0, "max": 100},
+    "BASOPHILS": {"min": 0, "max": 100},
+    "PROCALCITONIN": {"min": 0, "max": 100}
+}

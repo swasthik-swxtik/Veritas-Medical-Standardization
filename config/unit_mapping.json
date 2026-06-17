@@ -1,0 +1,18 @@
+{
+    "g/dl": "g/dL",
+    "gm/dL": "g/dL",
+    "gm/dl": "g/dL",
+    "gm/di": "g/dL",
+
+    "FL": "fL",
+    "fl": "fL",
+
+    "cell/cu.mm": "cells/cu.mm",
+    "cells/cumm": "cells/cu.mm",
+
+    "Million/cu.mm": "million/cu.mm",
+    "million/cumm": "million/cu.mm",
+
+    "mg/dl": "mg/dL",
+    "ratio": "Ratio"
+}

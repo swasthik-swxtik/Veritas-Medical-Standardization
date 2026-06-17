@@ -1,0 +1,21 @@
+{
+    "HEMOGLOBIN": ["g/dL"],
+    "ALBUMIN": ["g/dL"],
+    "GLOBULIN": ["g/dL"],
+    "TOTAL PROTEIN": ["g/dL"],
+
+    "MCV": ["fL"],
+    "MCH": ["pg"],
+    "MCHC": ["g/dL"],
+    "HEMATOCRIT": ["%"],
+
+    "PLATELET COUNT": ["cells/cu.mm"],
+    "WHITE BLOOD CELL COUNT": ["cells/cu.mm"],
+
+    "ALKALINE PHOSPHATASE": ["U/L"],
+    "ALANINE AMINOTRANSFERASE": ["U/L"],
+    "ASPARTATE AMINOTRANSFERASE": ["U/L"],
+
+    "A/G RATIO": ["Ratio"],
+    "Albumin/Globulin Ratio": ["Ratio"]
+}

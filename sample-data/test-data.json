@@ -1,0 +1,42 @@
+{
+  "data": {
+    "documentId": "DOC_UPLOAD_TEST_001",
+    "responseDetails": [
+      {
+        "classifier": "lab_report",
+        "data": {
+          "report_details": [
+            {
+              "test_name": "HEMOGLOBIN",
+              "result": "14.2",
+              "unit": "g/dL"
+            },
+            {
+              "test_name": "PLATELET COUNT",
+              "result": "250000",
+              "unit": "cells/cu.mm"
+            },
+            {
+              "test_name": "SERUM CREATININE",
+              "result": "1.1",
+              "unit": "mg/dL"
+            }
+          ]
+        }
+      },
+      {
+        "classifier": "discharge_summary",
+        "data": {
+          "patientName": "Test Patient",
+          "age": "30",
+          "gender": "Male",
+          "diagnosis": "Routine Health Checkup",
+          "admissionDate": "2026-06-17",
+          "dischargeDate": "2026-06-17",
+          "hospitalName": "Demo Hospital",
+          "doctorName": "Dr. Test"
+        }
+      }
+    ]
+  }
+}
